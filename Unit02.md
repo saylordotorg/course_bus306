@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Advertising and Society** <span id="2"></span> 
 *According to Merriam-Webster: “ethnocentrism is characterized by or
 based on the attitude that one’s own group is superior.”  Because of

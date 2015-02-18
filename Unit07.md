@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Advertising Strategy** <span id="7"></span> 
 *Advertising strategy is the link between the firm’s present situation
 and where their advertising objectives project they want to be in the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Segmenting, Targeting, and Positioning** <span id="5"></span> 
 *Advertisers pay for the reach and the frequency of their advertising
 messages – how many people see and/or hear a message and the number of

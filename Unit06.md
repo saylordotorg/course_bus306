@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Advertising Budget** <span id="6"></span> 
 *In Chapter 3 of* Flash!*, the authors noted that advertising revenue in
 the US alone accounts for 2.5 percent of the nation’s Gross National

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Communication and Decision Making** <span id="3"></span> 
 *In this unit, you will learn about the dynamic communication process
 between advertisers and consumers. We will examine both traditional

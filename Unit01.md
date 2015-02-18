@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Advertising** <span id="1"></span> 
 *In this unit, you will review the definition of advertising and explore
 how it differs from other types of marketing communication.  You will

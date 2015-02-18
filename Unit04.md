@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Market Research** <span id="4"></span> 
 *Market analysis is one of the most vital components of any type of
 business plan. Without verifiable information about the market to

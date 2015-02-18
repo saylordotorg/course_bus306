@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS306: Advertising and Promotion"
+course_description: "An exploration of fundamental advertising principles and the role advertising plays in the promotional mix, with particular emphasis on identifying the unique characteristics of advertising and examining familiar marketing concepts using an advertising framework."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 10: Execution and Evaluation** <span id="10"></span> 
 *A basic marketing plan measures market demand, segments the market, and
 sets clear objectives for creating value for the firm’s target market.
