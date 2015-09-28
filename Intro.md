@@ -203,3 +203,4 @@ understanding of the information.</span>
 - [Unit 8](https://legacy.saylor.org/bus306/Unit08/)
 - [Unit 9](https://legacy.saylor.org/bus306/Unit09/)
 - [Unit 10](https://legacy.saylor.org/bus306/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BUS/BUS306/BUS306-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BUS/BUS306/BUS306-FinalExam-Answers.html)
