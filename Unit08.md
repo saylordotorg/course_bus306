@@ -54,7 +54,7 @@ Upon successful completion of this unit, you will be able to:
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter 9:
     Choose Your Communication Weapons: SS+K Decides Upon a Creative
     Strategy and Media
-    Tactics”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Tactics”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 9 on pages 260-289, where you will see

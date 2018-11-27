@@ -40,7 +40,7 @@ Upon successful completion of this unit, you will be able to:
     Market Research”**
     Links: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     5: Know Your Audience: SS+K Learns All About msnbc.com, Inside and
-    Out”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Out”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF); *Advertising & Society Review*: William M. O’Barr’s [“The
     Role of Research in
     Advertising”](http://muse.jhu.edu/journals/asr/v007/7.4unit10.html) (HTML);
@@ -195,16 +195,16 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Activity: The Saylor Foundation’s “Market Analysis”**
     Link: The Saylor Foundation’s [“Market
-    Analysis”](http://www.saylor.org/site/wp-content/uploads/2012/06/BUS306-Activity-4.2.3-FINAL.pdf) (PDF)  
+    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BUS306-Activity-4.2.3-FINAL.pdf) (PDF)  
         
      Instructions: Using concepts from Chapter 5 of
-    *[Launch!](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*,
+    *[Launch!](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*,
     perform a preliminary market analysis to identify a target market
     segment for a new advertising campaign for a brand of your choice.
     Open the linked file for detailed instructions. When you are done,
     check your work against The Saylor Foundation’s [Market Analysis
     Assignment Grading
-    Rubric](http://www.saylor.org/site/wp-content/uploads/2012/06/BUS306-Activity-4.2.3-GRADINGRUBRIC-FINAL.pdf).  
+    Rubric](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BUS306-Activity-4.2.3-GRADINGRUBRIC-FINAL.pdf).  
         
      Completing this activity should take you approximately 1 hour to
     complete.
