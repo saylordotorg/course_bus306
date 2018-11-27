@@ -36,7 +36,7 @@ Upon successful completion of this unit, you will be able to:
     Overdrive”**
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     11: Execute on All Platforms: SS+K Goes into Production
-    Overdrive”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Overdrive”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 11 on pages 333-362. In it, you will
@@ -77,7 +77,7 @@ Upon successful completion of this unit, you will be able to:
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     12: Make the Message Sell: SS+K Ensures that All Components Tell the
     Brand
-    Story”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Story”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 12 on pages 363-391. In it, you will
@@ -96,7 +96,7 @@ Upon successful completion of this unit, you will be able to:
     Professional Advertising’s “Advertising Planning”**
     Links: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     13: Launch! msnbc.com’s First-Ever Branding
-    Campaign](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)[”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Campaign](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)[”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 13 on pages 391-407 for an overview of
@@ -130,7 +130,7 @@ Upon successful completion of this unit, you will be able to:
     “Chapter 14: ROI: msnbc.com Decides if the Campaign Worked”**
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     14: ROI: msnbc.com Decides if the Campaign
-    Worked”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Worked”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 14 on pages 407-450 for an explanation
@@ -157,7 +157,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation’s “BUS306 Exam Review & Study
     Guide”**
     Link: The Saylor Foundation’s [“BUS306 Exam Review & Study
-    Guide](http://www.saylor.org/site/wp-content/uploads/2013/01/BUS306-StudyGuide-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2013/01/BUS306-StudyGuide-FINAL.pdf)
+    Guide](https://resources.saylor.org/archived/wp-content/uploads/2013/01/BUS306-StudyGuide-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/BUS306-StudyGuide-FINAL.pdf)
     (PDF)  
         
      Instructions: Please read this guide before you begin the final

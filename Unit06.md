@@ -37,7 +37,7 @@ Upon successful completion of this unit, you will be able to:
     Budget”**
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter 7:
     Decide What You Can Afford to Say: msnbc.com Sets the
-    Budget”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Budget”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 7 on pages 204-230. This reading covers

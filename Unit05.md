@@ -44,7 +44,7 @@ Upon successful completion of this unit, you will be able to:
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter 6:
     Segment, Target, and Position Your Audience: SS+K Identifies the
     Most Valuable News
-    Consumer”](http://www.saylor.org/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf) (PDF)  
+    Consumer”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf) (PDF)  
         
      Instructions: Read Chapter 6 on pages 174-203. This chapter covers
     the essential processes of target marketing.  This reading covers
@@ -81,7 +81,7 @@ Upon successful completion of this unit, you will be able to:
     Understanding and Approaching the Market: “The Segmented Market”**
     Link: John Burnett's *Core Concepts of Marketing*: Chapter 2,
     Understanding and Approaching the Market: [“The Segmented
-    Market”](http://www.saylor.org/site/wp-content/uploads/2013/07/BUS306_CoreConceptsofMarketing.pdf)
+    Market”](https://resources.saylor.org/archived/wp-content/uploads/2013/07/BUS306_CoreConceptsofMarketing.pdf)
     (PDF)  
         
      Instructions: Read this section on pages 34-41 about segmenting
