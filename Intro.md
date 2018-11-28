@@ -130,7 +130,7 @@ computer;
  √    have competency in the English language;  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed all courses listed in the [Core
@@ -144,7 +144,7 @@ Salzer](http://www.saylor.org/faculty-o-t/#ProfessorMelindaSalzer)
   
  **Primary Resources:** The primary text used in this course
 is *[Launch! Advertising and Promotion in Real
-Time](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*.
+Time](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*.
 Other sources include a wide range of videos, lectures, and articles
 from a variety of authoritative sources.  
     
@@ -171,7 +171,7 @@ understanding of the information.</span>
 -   ***Launch! Advertising and Promotion in Real Time***
 
     Link: *[Launch! Advertising and Promotion in Real
-    Time](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*
+    Time](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)*
     (PDF)  
         
      You will be prompted to read sections of this book throughout the

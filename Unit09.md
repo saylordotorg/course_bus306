@@ -41,7 +41,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     10: Plan and Buy Media: SS+K Chooses the Right Media for the
     Client’s New Branding
-    Message”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Message”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF) and City University of New York, Brooklyn College: Professor
     Lewis’ [“Topic 8B – Media Buying and
     Planning”](http://academic.brooklyn.cuny.edu/economic/friedman/ADVDMKTopic8.doc) (DOC)  

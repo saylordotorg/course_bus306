@@ -40,7 +40,7 @@ Upon successful completion of this unit, you will be able to:
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter 8:
     Create a Strategy: SS+K Puts Its Research to Use as the Agency
     Creates the
-    Brief”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf) (PDF)
+    Brief”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf) (PDF)
     and *Entrepreneur*: Rosalind Resnick’s [“Which Ad Strategy Works for
     You?: Rev up your ROI by choosing the best medium for your
     message”](http://www.entrepreneur.com/advertising/article203050.html) (HTML)  
