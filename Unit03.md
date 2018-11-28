@@ -43,7 +43,7 @@ Upon successful completion of this unit, you will be able to:
     “Ethics and Advertising”**
     Links: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     4: Consumers and the Communications Process: SS+K Gets to Know Its
-    Consumers”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Consumers”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF) and *Advertising and Society*: William M. O’Barr’s “[Ethics
     and
     Advertising](http://muse.jhu.edu/journals/asr/v008/8.3unit13.html)”

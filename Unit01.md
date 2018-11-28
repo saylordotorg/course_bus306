@@ -33,7 +33,7 @@ Upon successful completion of this unit, you will be able to:
     of Marketing”**
     Links: *Launch! Advertising and Promotion in Real Time*: [“Chapter
     2: A User’s Manual: Advertising, Promotion and Marketing
-    Essentials](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)[”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Essentials](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF); *Advertising and Society*: William M. O’Barr’s [“What is
     Advertising?”](http://muse.jhu.edu/journals/asr/v006/6.3unit01.html)
     (HTML); and the American Marketing Association’s [“Definition of
@@ -78,7 +78,7 @@ Upon successful completion of this unit, you will be able to:
     “Chapter 1: Meet SS+K: A Real Agency Pitches a Real Client”**
     Link: *Launch! Advertising and Promotion in Real Time*: [“Chapter 1:
     Meet SS+K: A Real Agency Pitches a Real
-    Client”](https://resources.saylor.org/archived/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
+    Client”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Launch!%20Advertising%20and%20Promotion%20in%20Real%20Time.pdf)
     (PDF)  
         
      Instructions: Read Chapter 1 on pages 2-23. In addition to
